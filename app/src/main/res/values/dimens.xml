@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="UsuarioTextViewNome">18dp</dimen>
+    <dimen name="UsuarioTexViewEmail">14dp</dimen>
+    <dimen name="UsuarioTexViewDataNascimento">14dp</dimen>
+</resources>

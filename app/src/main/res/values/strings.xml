@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+
+    <string name="btnConsultarMais">Consultar</string>
+    <!--Campos Cadastro-->
+    <string name="txtCadastrarName">Nome completo</string>
+    <string name="txtDataNascCadastrar">Data de nascimento</string>
+    <string name="txtEmailCadastrar">E-mail</string>
+    <string name="txtCadastrarSenha">Senha</string>
+
+    <!--Tela Consultar-->
+    <string name="ConsultarBtnFechar">Fechar</string>
+    <!--Tela Cadastrar-->
+    <string name="CadastarBtnCancelar">Cancelar</string>
+    <string name="CadastrarBtnSalvar">Salvar</string>
+    <string name="CadastrarBtnCadastrar">Cadastrar</string>
+    <string name="CadastrarBtnExcluir">Excluir</string>
+    <string name="CadastrarTitleNovoUsuario">Cadastrar novo usuário</string>
+    <!--Tela Editar-->
+    <string name="EditarTitleUsuario">Editar usuário</string>
+
+    <!--Campo Obrigatorio-->
+    <string name="CampoObrigatorio">Campo obrigatório</string>
+    <string name="hintUsuario">E-mail</string>
+    <string name="hintSenha">Senha</string>
+
+    <!--SharedPreferences-->
+    <string name="ArquivoPreferencia">arquivopreferencia</string>
+    <string name="CadastrarBtnSair">Sair</string>
+
+</resources>
