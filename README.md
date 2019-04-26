@@ -63,5 +63,7 @@ Excluir
 
 
 # APP Release
+Usuário admin@admin.com
+Senha 123
 
 <a href="https://github.com/mayconeves/AppCadastro/blob/master/app/release/app-release.apk">Download</a>
