@@ -53,6 +53,10 @@ Cadastrar
 <br>
 <img src="https://github.com/mayconeves/AppCadastro/blob/master/PreviewApp/Cadastrar.png?raw=true" width="200px">
 
+Listar
+<br>
+<img src="https://github.com/mayconeves/AppCadastro/blob/master/PreviewApp/Listar.png?raw=true" width="200px">
+
 Editar
 <br>
 <img src="https://github.com/mayconeves/AppCadastro/blob/master/PreviewApp/Editar.png?raw=true" width="200px">
